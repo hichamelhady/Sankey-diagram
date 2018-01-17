@@ -9,7 +9,15 @@ It's a kind of visualization used to depict a flow from one set of values to ano
 
 It is consisted of links and nodes : The things being connected are called nodes and the connections are called links. 
 
-Sankeys are best used when you want to show a many-to-many mapping between two domains (e.g., universities and majors) or multiple paths through a set of stages (for instance, Google Analytics uses sankeys to show how traffic flows from pages to other pages on your web site). They can also visualize the primary energy flows in a factory , the energy accounts, material flow accounts on a regional or national level, and also the breakdown of cost of item or services.
+Sankeys are very good at showing particular kinds of complex information. they are best used when you want to show : 
+* Where money came from & went to (budgets, contributions).
+* Flows of goods from place to place.
+* Flows of energy from source to destination (the primary energy flows in a factory , energy accounts)
+* A many-to-many mapping between two domains (e.g., universities and majors).
+* Multiple paths through a set of stages (for instance, Google Analytics uses sankeys to show how traffic flows from pages to other pages on your web site).
+* Material flow accounts on a regional or national level
+* The breakdown of cost of item or services.
+* ...and potentially many more.
 [1][2]
 
 ## Origin of name and historical examples :
