@@ -50,7 +50,7 @@ The term *“alluvial diagram”* is generally used interchangeably.
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/Minard.png" width="800" align="center">
+     <image src="Images/Minard.png" width="800" align="center">
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Here are the most known tools used to create sankey diagram.
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/sankey diagram tools.JPG" align="center">
+     <image src="Images/sankey diagram tools.JPG" align="center">
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@ The ﬂow showed below the text represents the flow of energy in the United Stat
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/American energy system.JPG"  align="center">
+     <image src="Images/American energy system.JPG"  align="center">
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ The diagram below shows the Energy Balance in France in 2015.
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/balance france.JPG"  align="center">
+     <image src="Images/balance france.JPG"  align="center">
     </td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ This infographic shows the number of Bachelor degrees awarded in engineering & C
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/engineering bachelor degree usa.jpg"  align="center">
+     <image src="Images/engineering bachelor degree usa.jpg"  align="center">
     </td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ The sankey diagrams below shows the majors and current professional sector of th
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/Sankey by Division.png"  align="center">
+     <image src="Images/Sankey by Division.png"  align="center">
     </td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ The sankey diagrams below shows the majors and current professional sector of th
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/Sankey by Majors.png"  align="center">
+     <image src="Images/Sankey by Majors.png"  align="center">
     </td>
   </tr>
   <tr>
