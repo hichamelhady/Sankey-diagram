@@ -1,6 +1,6 @@
 # Sankey Diagram by Hicham EL-HADY
 
-Title of chosen chart : Saneky Diagram 
+Title of chosen chart : Sankey Diagram 
 
 Author : Hicham EL-HADY
 
