@@ -73,6 +73,31 @@ Here are the most know tools used to create sankey diagram.
 
 
 ## Examples :
+* American energy system
+
+The ﬂow showed below the text represents the flow of energy in the United States. it is a Sankey diagram that estimates the amount of energy used within the United States organized by the sources from which the energy is provided, to which sectors they serve, and the amount used vs. unused energy. it shows that :
+- Primary energy sources supply energy directly to residential, commercial, industrial, and transportation sectors.
+- Electricity is generated from a mix of primary sources and it carries energy to those sectors as well.
+- Not all energy supplied is actually used :  more than half is lost as waste heat or through inefficiencies (59.4 % is unused).
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="American energy system.JPG"  align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      USA energy system [4]</td>
+  </tr>
+</table>
+
+We conlude from the diagram that :
+- Oil is the predominant fuel source in the transportation sector—gasoline, diesel, and jet fuel all come from crude oil.
+- Nearly all of the coal mined in the United States goes toward electricity generation, and it is the nation’s largest contributor to the electric supply. Coal also provides direct heat to industries that make steel, concrete, paper, and other essential products.
+- Natural gas is the second largest contributor to the nation’s supply of electricity.
+- The United States imports a small portion of its electricity.
+[4]
 
 * This infographic shows the number of Bachelor degrees awarded in engineering & CS in the US in 2016 :
 Here are the most know tools used to create sankey diagram.
@@ -85,7 +110,7 @@ Here are the most know tools used to create sankey diagram.
   </tr>
   <tr>
     <td align="center" bgcolor="EFEFEF">
-      Sankey diagram tools [3]</td>
+      Engineering bachelor degree awarded in USA [Twitter, Pius Wong  On 10 déc 2017]</td>
   </tr>
 </table>
 
@@ -95,3 +120,5 @@ Here are the most know tools used to create sankey diagram.
 [2] https://developers.google.com/chart/interactive/docs/gallery/sankey
 
 [3] https://www.azavea.com/blog/2017/08/09/six-sankey-diagram-tool/
+
+[4] http://needtoknow.nas.edu/energy/interactive/our-energy-system/
