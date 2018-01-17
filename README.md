@@ -62,7 +62,7 @@ Here are the most know tools used to create sankey diagram.
 <table border="0">
   <tr>
     <td>
-     <image src="sankey diagram tools.JPG" width="400" align="center">
+     <image src="sankey diagram tools.JPG" align="center">
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Here are the most know tools used to create sankey diagram.
 
 ## Examples :
 
-* this infographic shows the number of Bachelor degrees awarded in engineering & CS in the US in 2016 :
+* This infographic shows the number of Bachelor degrees awarded in engineering & CS in the US in 2016 :
 Here are the most know tools used to create sankey diagram.
 
 <table border="0">
