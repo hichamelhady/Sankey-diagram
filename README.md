@@ -148,7 +148,7 @@ The sankey diagrams below shows the majors and current professional sector of th
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey by division.png"  align="center">
+     <image src="Sankey by Division.png"  align="center">
     </td>
   </tr>
   <tr>
