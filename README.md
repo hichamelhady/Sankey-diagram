@@ -19,12 +19,12 @@ Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall 
 <table border="0">
   <tr>
     <td>
-     <image src="sankey first diagram.png" width="400" align="center">
+     <image src="sankey first diagram.png" width="600" align="center">
     </td>
   </tr>
   <tr>
     <td align="center" bgcolor="EFEFEF">
-      Diagramme en bâtons vertical </td>
+      Sankey's original 1898 diagram showing energy efficiency of a steam engine [1]</td>
   </tr>
 </table>
 
@@ -32,3 +32,8 @@ Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall 
 ## Most famous examples :
 
 * exm
+
+
+## Sources
+[1] https://en.wikipedia.org/wiki/Sankey_diagram
+[2] https://developers.google.com/chart/interactive/docs/gallery/sankey
