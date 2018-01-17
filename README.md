@@ -94,12 +94,32 @@ The ﬂow showed below the text represents the flow of energy in the United Stat
   </tr>
 </table>
 
-We conlude from the diagram that :
+We conlude from this diagram that :
 - Oil is the predominant fuel source in the transportation sector—gasoline, diesel, and jet fuel all come from crude oil.
 - Nearly all of the coal mined in the United States goes toward electricity generation, and it is the nation’s largest contributor to the electric supply. Coal also provides direct heat to industries that make steel, concrete, paper, and other essential products.
 - Natural gas is the second largest contributor to the nation’s supply of electricity.
 - The United States imports a small portion of its electricity.
+
 [4]
+
+### Energy balance France 2015 :
+
+This diagram is taken from an interactive web application that allows the user to visualize the annual energy balance within different geographic areas within the EU. the link the the web application is mentionned in sources [5].
+the user can select the desired year and country (or supranational entity), the application creates a Sankey diagram on the fly based on those set parameters.
+
+The diagram below shows the Energy Balance in France in 2015.
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="alance france.jpg"  align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Energy balance in France in 2015 " [5]</td>
+  </tr>
+</table>
 
 ### Bachelor degrees awarded in engineering in the US in 2016 :
 
@@ -125,3 +145,7 @@ This infographic shows the number of Bachelor degrees awarded in engineering & C
 [3] https://www.azavea.com/blog/2017/08/09/six-sankey-diagram-tool/
 
 [4] http://needtoknow.nas.edu/energy/interactive/our-energy-system/
+
+[5] http://ec.europa.eu/eurostat/cache/sankey/sankey.html?geo=FR&year=2015&unit=KTOE&fuels=0000&highlight=&nodeDisagg=0101000000&flowDisagg=false#0
+
+
