@@ -57,7 +57,8 @@ The term *“alluvial diagram”* is generally used interchangeably.
 </table>
 
 ## Sankey diagram tools :
-Here are the most know tools used to create sankey diagram.
+
+Here are the most known tools used to create sankey diagram.
 
 <table border="0">
   <tr>
@@ -73,7 +74,8 @@ Here are the most know tools used to create sankey diagram.
 
 
 ## Examples :
-* American energy system
+
+### American energy system
 
 The ﬂow showed below the text represents the flow of energy in the United States. it is a Sankey diagram that estimates the amount of energy used within the United States organized by the sources from which the energy is provided, to which sectors they serve, and the amount used vs. unused energy. it shows that :
 - Primary energy sources supply energy directly to residential, commercial, industrial, and transportation sectors.
@@ -99,8 +101,9 @@ We conlude from the diagram that :
 - The United States imports a small portion of its electricity.
 [4]
 
-* This infographic shows the number of Bachelor degrees awarded in engineering & CS in the US in 2016 :
-Here are the most know tools used to create sankey diagram.
+### Bachelor degrees awarded in engineering in the US in 2016 :
+
+This infographic shows the number of Bachelor degrees awarded in engineering & CS in the US in 2016 :
 
 <table border="0">
   <tr>
