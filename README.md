@@ -80,7 +80,7 @@ Here are the most know tools used to create sankey diagram.
 <table border="0">
   <tr>
     <td>
-     <image src="engineering bachelor degree usa.jpg" width="500" align="center">
+     <image src="engineering bachelor degree usa.jpg"  align="center">
     </td>
   </tr>
   <tr>
