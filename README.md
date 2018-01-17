@@ -12,9 +12,9 @@ It is consisted of links and nodes : The things being connected are called nodes
 Sankeys are best used when you want to show a many-to-many mapping between two domains (e.g., universities and majors) or multiple paths through a set of stages (for instance, Google Analytics uses sankeys to show how traffic flows from pages to other pages on your web site). They can also visualize the primary energy flows in a factory , the energy accounts, material flow accounts on a regional or national level, and also the breakdown of cost of item or services.
 [1][2]
 
-## Origin of name :
+## Origin of name and historical examples :
 
-Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall Sankey,  who used this type of diagram in 1898 in a classic figure showing the energy efficiency of a steam engine using arrows having widths proportional to heat loss.
+* Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall Sankey,  who used this type of diagram in 1898 in a classic figure showing the energy efficiency of a steam engine using arrows having widths proportional to heat loss. [1]
 
 <table border="0">
   <tr>
@@ -29,11 +29,26 @@ Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall 
 </table>
 
 
+
+
+* Charles Minard's Map of Napoleon's Russian Campaign of 1812 : One of the most famous Sankey diagrams is Charles Minard's Map of Napoleon's Russian Campaign of 1812. It is a flow map, overlaying a Sankey diagram onto a geographical map. It was created in 1869, so it actually predates Sankey's 'first' Sankey diagram of 1898. [1]
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="Minard.png" width="600" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Minard's classic diagram of Napoleon's invasion of Russia, using the feature now named after Sankey [1]</td>
+  </tr>
+</table>
+
+
 ## Most famous examples :
-
-* exm
-
 
 ## Sources
 [1] https://en.wikipedia.org/wiki/Sankey_diagram
+
 [2] https://developers.google.com/chart/interactive/docs/gallery/sankey
