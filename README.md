@@ -8,19 +8,19 @@ Author : Hicham EL-HADY
 - Definition
 - Origin of the name and historical examples
 - Sankey diagram tools :
-- Examples
+- Examples :
+  
+    *American energy system*
 
-*American energy system*
+    *Energy balance France 2015*
 
-*Energy balance France 2015*
+    *Bachelor degrees awarded in engineering in the US in 2016*
 
-*Bachelor degrees awarded in engineering in the US in 2016*
+    *Market sizing and Customer segmentation*
 
-*Market sizing and Customer segmentation*
+    *Paths from major to profession of whitman grads*
 
-*Paths from major to profession of whitman grads*
-
-*Trump’s Twitter Attacks Sankeyfied, Axios*
+    *Trump’s Twitter Attacks Sankeyfied, Axios*
 
 - Conclusion
 - Sources
