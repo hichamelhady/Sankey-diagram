@@ -16,7 +16,17 @@ Sankeys are best used when you want to show a many-to-many mapping between two d
 
 Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall Sankey,  who used this type of diagram in 1898 in a classic figure showing the energy efficiency of a steam engine using arrows having widths proportional to heat loss.
 
-
+<table border="0">
+  <tr>
+    <td>
+     <image src="sankey first diagram.png" width="400" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Diagramme en bâtons vertical </td>
+  </tr>
+</table>
 
 
 ## Most famous examples :
