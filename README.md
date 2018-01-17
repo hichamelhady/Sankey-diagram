@@ -143,7 +143,7 @@ This infographic shows the number of Bachelor degrees awarded in engineering & C
 
 ### Paths from major to profession of whitman grads
 
-whitman graduate students often embrace non-linear paths from their major to their profession. In fact, many students study a subject they love at Whitman and then pursue a career in an entirely different field.
+Whitman graduate students often embrace non-linear paths from their major to their profession. In fact, many students study a subject they love at Whitman and then pursue a career in an entirely different field.
 The sankey diagrams below shows the majors and current professional sector of the last 20 years of Whitman grads. [6]
 - Sankey by division :
 <table border="0">
@@ -172,6 +172,65 @@ The sankey diagrams below shows the majors and current professional sector of th
   </tr>
 </table>
 
+### Market sizing and Customer segmentation :
+
+Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits. Customer segmentation, also called consumer segmentation or client segmentation. [7]
+
+When a company make a customer segmentation, they must follow its evolution over time to verify that the action plan that they have put in place allows them to be more efficient. For this they want to check that the low value segments decrease in favor of other larger segments. the classical way to do it, is to use the matrix of passage. an example is given below
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="Images/segmentation-matrice-passage.png"  align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+     "Customer Segmentation by matrix" [8] </td>
+  </tr>
+</table>
+
+The advantage is that we can see quickly changes from one month to another.
+
+The disadvantage is that it is not very visual, a little "old school" and we can not represent the changes over several months.
+
+So the new way to do it is to use a Sankey diagram and represent migrations in this way:
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="Images/sankey-diagram segmentation.png"  align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+     "Customer Segmentation using Sankey diagram" [8] </td>
+  </tr>
+</table>
+
+So thanks to the sankey diagram, we can quickly see the weight of each segment and the most important migrations.
+
+[8]
+
+
+
+### Trump’s Twitter Attacks Sankeyfied, Axios
+
+Lazaro Gamio of Axios, a “new media company delivering vital, trustworthy news (…) with expertise, voice AND smart brevity”, has created this Sankey diagram infographic to illustrate the Twitter attacks by Trump and who they were targeting. It a very comical use of sankey diagram but also serious. [9]
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="Images/Axios_trump_twitter_attacks.PNG"  align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+     "Infographic showing Trump tweet attacks as Sankey diagram. By Lazaro Gamio / Axios " [9] </td>
+  </tr>
+</table>
+
+
 ## Conclusion :
 
 
@@ -187,3 +246,9 @@ The sankey diagrams below shows the majors and current professional sector of th
 [5] http://ec.europa.eu/eurostat/cache/sankey/sankey.html?geo=FR&year=2015&unit=KTOE&fuels=0000&highlight=&nodeDisagg=0101000000&flowDisagg=false#0
 
 [6] https://www.whitman.edu/student-life/student-engagement-center/whitman-wayfinder/wf-sankey
+
+[7] http://searchsalesforce.techtarget.com/definition/customer-segmentation
+
+[8]https://lovelyanalytics.com/2017/02/03/segmentation-client-diagramme-sankey/
+
+[9] http://www.sankey-diagrams.com/
