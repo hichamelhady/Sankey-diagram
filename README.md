@@ -7,9 +7,9 @@ summary
 Sankey diagrams are a specific type of flow diagram, in which the width of the arrows is shown proportionally to the flow quantity.
 It's a kind of visualization used to depict a flow from one set of values to another.
 
-It is consisted of links and nodes : The things being connected are called nodes and the connections are called links. 
+It is a two-dimensional graphic that consists of groups of vertical bars interconnected by flow lines. The things being connected are called nodes (or variables) and the connections are called links (or network). 
 
-Sankeys are very good at showing particular kinds of complex information. they are best used when you want to show : 
+Sankeys are very good at showing particular kinds of complex information. They are best used when you want to show : 
 * Where money came from & went to (budgets, contributions).
 * Flows of goods from place to place.
 * Flows of energy from source to destination (the primary energy flows in a factory , energy accounts)
@@ -18,6 +18,9 @@ Sankeys are very good at showing particular kinds of complex information. they a
 * Material flow accounts on a regional or national level
 * The breakdown of cost of item or services.
 * ...and potentially many more.
+
+The term *“alluvial diagram”* is generally used interchangeably. However, some argue that an alluvial diagram visualizes the changes in the network over time as opposed to across different variables
+
 [1][2]
 
 ## Origin of name and historical examples :
