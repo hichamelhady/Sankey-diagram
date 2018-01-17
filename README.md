@@ -33,7 +33,7 @@ The term *“alluvial diagram”* is generally used interchangeably.
 <table border="0">
   <tr>
     <td>
-     <image src="Sankey-diagram/Images/sankey first diagram.png" width="600" align="center">
+     <image src="Images/sankey first diagram.png" width="600" align="center">
     </td>
   </tr>
   <tr>
