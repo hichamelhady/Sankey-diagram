@@ -19,11 +19,11 @@ Sankeys are very good at showing particular kinds of complex information. They a
 * The breakdown of cost of item or services.
 * ...and potentially many more.
 
-The term *“alluvial diagram”* is generally used interchangeably. However, some argue that an alluvial diagram visualizes the changes in the network over time as opposed to across different variables
+The term *“alluvial diagram”* is generally used interchangeably.
 
 [1][2]
 
-## Origin of name and historical examples :
+## Origin of the name and historical examples :
 
 * Sankey diagram are named after Irish Captain Sankey Matthew Henry Phineas Riall Sankey,  who used this type of diagram in 1898 in a classic figure showing the energy efficiency of a steam engine using arrows having widths proportional to heat loss. [1]
 
@@ -42,12 +42,12 @@ The term *“alluvial diagram”* is generally used interchangeably. However, so
 
 
 
-* Charles Minard's Map of Napoleon's Russian Campaign of 1812 : One of the most famous Sankey diagrams is Charles Minard's Map of Napoleon's Russian Campaign of 1812. It is a flow map, overlaying a Sankey diagram onto a geographical map. It was created in 1869, so it actually predates Sankey's 'first' Sankey diagram of 1898. [1]
+* Charles Minard's Map of Napoleon's Russian Campaign of 1812 : One of the most famous Sankey diagrams is Charles Minard's Map of Napoleon's Russian Campaign of 1812. It is a flow map, overlaying a Sankey diagram onto a geographical map. It was created in 1869, so it actually predates Sankey's *'first'* Sankey diagram of 1898. [1]
 
 <table border="0">
   <tr>
     <td>
-     <image src="Minard.png" width="600" align="center">
+     <image src="Minard.png" width="800" align="center">
     </td>
   </tr>
   <tr>
@@ -56,10 +56,28 @@ The term *“alluvial diagram”* is generally used interchangeably. However, so
   </tr>
 </table>
 
+## Sankey diagram tools :
+Here are the most know tools used to create sankey diagram.
+
+<table border="0">
+  <tr>
+    <td>
+     <image src="sankey diagram tools.JPG" width="800" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="EFEFEF">
+      Sankey diagram tools [3]</td>
+  </tr>
+</table>
+
 
 ## Most famous examples :
+
 
 ## Sources
 [1] https://en.wikipedia.org/wiki/Sankey_diagram
 
 [2] https://developers.google.com/chart/interactive/docs/gallery/sankey
+
+[3] https://www.azavea.com/blog/2017/08/09/six-sankey-diagram-tool/
