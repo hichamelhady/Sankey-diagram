@@ -1,6 +1,7 @@
 # Sankey Diagram by Hicham EL-HADY
 
 Title of chosen chart : Saneky Diagram 
+
 Author : Hicham EL-HADY
 
 
@@ -170,6 +171,8 @@ The sankey diagrams below shows the majors and current professional sector of th
      "Sankey by Majors" [6] </td>
   </tr>
 </table>
+
+## Conclusion :
 
 
 ## Sources
