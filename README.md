@@ -253,6 +253,9 @@ Lazaro Gamio of Axios, a “new media company delivering vital, trustworthy news
 
 ## Conclusion :
 
+Sankey diagrams provide flexibility and interactivity for business user to get insight on data fastly.
+
+Putting this tool into the hands of the people who have the knowledge rather than having a graphic artist in the process allows users the opportunity to visualize a wide range of processes. it also allows them to Add their own visual graphics.
 
 ## Sources
 [1] https://en.wikipedia.org/wiki/Sankey_diagram
